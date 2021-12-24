@@ -1,0 +1,4 @@
+#Fri Dec 24 12:49:46 GMT 2021
+base.0=/home/asamoah/Documents/My-Contact-App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
