@@ -30,7 +30,7 @@ class Homeview extends StatelessWidget {
       "name": "Lovely Mum",
       "phone": "+233 553 39 9721",
       "email": "lydiaosei@gmail.com",
-      "region": "Kumasi",
+      "region": "Ashanti Region",
       "country": "Ghana",
       "picture": "assets/mum.jpg"
     },
@@ -46,9 +46,25 @@ class Homeview extends StatelessWidget {
       "name": "Asamoah Godfred",
       "phone": "+233 247 17 2944",
       "email": "asamoahgodfred42@gmail.com",
-      "region": "Western RegionGhana",
+      "region": "Western Region",
       "country": "Ghana",
       "picture": "assets/me.jpg"
+    },
+    {
+      "name": "Boateng Eric",
+      "phone": "+233 247 17 2944",
+      "email": "boatengeric432@gmail.com",
+      "region": "Eastern Region",
+      "country": "Ghana",
+      "picture": "assets/fam.jpg"
+    },
+    {
+      "name": "Asana Mohammed",
+      "phone": "+233 247 17 2944",
+      "email": "asamoahgodfred42@gmail.com",
+      "region": "Ashanti Region",
+      "country": "Ghana",
+      "picture": "assets/ruth.jpg"
     },
   ];
   @override
