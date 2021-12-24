@@ -16,7 +16,7 @@ class Homeview extends StatelessWidget {
       "email": "michealasamoah70@gmail.com",
       "region": "Central Region",
       "country": "Ghana",
-      "picture": "assets/fam.jpg"
+      "picture": "assets/aba.jpg"
     },
     {
       "name": "Simon Okrah",
@@ -124,7 +124,7 @@ class Homeview extends StatelessWidget {
                     },
                     leading: const CircleAvatar(
                       radius: 25,
-                      backgroundImage: AssetImage('assets/fam.jpg'),
+                      backgroundImage: AssetImage('assets/aba.jpg'),
                     ),
                     title: const Text(
                       'Michael Asamoah',
