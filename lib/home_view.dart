@@ -119,7 +119,7 @@ class Homeview extends StatelessWidget {
                                 name: 'Michael Asamoah',
                                 phone: '+233 551 80 6883',
                                 region: 'Greater Accra',
-                                picture: 'https://dfsddffds.png'));
+                                picture: ''));
                       }));
                     },
                     leading: const CircleAvatar(

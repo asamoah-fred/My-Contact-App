@@ -30,8 +30,8 @@ class ContactDetailsView extends StatelessWidget {
         body: ListView(
           children: [
             const CircleAvatar(
-              radius: 100,
-              backgroundImage: AssetImage('assets/fam.jpg'),
+              radius: 125,
+              backgroundImage: AssetImage('assets/aba.jpg'),
             ),
             const SizedBox(
               height: 25,
@@ -93,13 +93,13 @@ class ContactDetailsView extends StatelessWidget {
                       title: const Text(
                         'Email',
                         style: TextStyle(
-                            fontWeight: FontWeight.w600, fontSize: 18),
+                            fontWeight: FontWeight.w600, fontSize: 20),
                       ),
                       subtitle: Text(
                         contact.email,
                         style: const TextStyle(
                             fontWeight: FontWeight.w600,
-                            fontSize: 16,
+                            fontSize: 19,
                             color: Color(0xf3333333)),
                       ),
                       trailing: Row(
